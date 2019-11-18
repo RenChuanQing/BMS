@@ -7,10 +7,10 @@
  */
 package 图书管理系统1.BMS.rcq.usr;
 
-import 图书管理系统1.BMS.rcq.book.BookList;
-import 图书管理系统1.BMS.rcq.operation.IOperation;
+        import 图书管理系统1.BMS.rcq.book.BookList;
+        import 图书管理系统1.BMS.rcq.operation.IOperation;
 
-import java.util.Scanner;
+        import java.util.Scanner;
 
 public abstract class User {
     public String name;
