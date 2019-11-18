@@ -5,10 +5,10 @@
  * Date:2019/11/17
  * Description:
  */
-package 图书管理系统1.rcq.usr;
+package 图书管理系统1.BMS.rcq.usr;
 
-import 图书管理系统1.rcq.book.BookList;
-import 图书管理系统1.rcq.operation.IOperation;
+import 图书管理系统1.BMS.rcq.book.BookList;
+import 图书管理系统1.BMS.rcq.operation.IOperation;
 
 import java.util.Scanner;
 

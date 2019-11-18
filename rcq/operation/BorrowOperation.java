@@ -5,10 +5,10 @@
  * Date:2019/11/17
  * Description:
  */
-package 图书管理系统1.rcq.operation;
+package 图书管理系统1.BMS.rcq.operation;
 
-import 图书管理系统1.rcq.book.Book;
-import 图书管理系统1.rcq.book.BookList;
+import 图书管理系统1.BMS.rcq.book.Book;
+import 图书管理系统1.BMS.rcq.book.BookList;
 
 public class BorrowOperation implements IOperation {
     @Override

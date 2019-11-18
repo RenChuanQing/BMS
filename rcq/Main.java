@@ -5,17 +5,17 @@
  * Date:2019/11/17
  * Description:
  */
-package 图书管理系统1.rcq;
+package 图书管理系统1.BMS.rcq;
 
-import 图书管理系统1.rcq.book.BookList;
-import 图书管理系统1.rcq.usr.ADmin;
-import 图书管理系统1.rcq.usr.NomalUser;
-import 图书管理系统1.rcq.usr.User;
+import 图书管理系统1.BMS.rcq.book.BookList;
+import 图书管理系统1.BMS.rcq.usr.ADmin;
+import 图书管理系统1.BMS.rcq.usr.NomalUser;
+import 图书管理系统1.BMS.rcq.usr.User;
 
 import java.util.Scanner;
 
 public class Main {
-    public static User login(){
+    public static User  login(){
         System.out.println("请输入你的名字");
         Scanner sc = new Scanner(System.in);
         String name = sc.next();

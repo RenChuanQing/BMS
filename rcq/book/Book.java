@@ -5,7 +5,7 @@
  * Date:2019/11/17
  * Description:
  */
-package 图书管理系统1.rcq.book;
+package 图书管理系统1.BMS.rcq.book;
 
 public class Book {
     public String name;

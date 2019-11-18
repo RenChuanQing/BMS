@@ -5,9 +5,9 @@
  * Date:2019/11/17
  * Description:
  */
-package 图书管理系统1.rcq.usr;
+package 图书管理系统1.BMS.rcq.usr;
 
-import 图书管理系统1.rcq.operation.*;
+import 图书管理系统1.BMS.rcq.operation.*;
 
 public class NomalUser extends User {
     public NomalUser(String name) {
